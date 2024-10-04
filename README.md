@@ -6,5 +6,4 @@ di Manuel Zavatta
 e Andrea Ciraolo
 
 - introduzione
-- capitolo 1
 - conclusione
