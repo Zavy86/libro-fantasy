@@ -19,5 +19,3 @@ e Andrea Ciraolo
 - conclusione
 
 fine!
-![GitHub]()
-
